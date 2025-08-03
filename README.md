@@ -1,2 +1,2 @@
 # Side-Bar
-This is the sidebar using HTML, CSS
+This is the sidebar using HTML & CSS
